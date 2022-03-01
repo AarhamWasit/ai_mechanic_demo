@@ -1,0 +1,314 @@
+order,train_val_test,filename,filename_prefix,length,clips,fuel,config,cyl,turbo,misfire,loc,idle,disp,hp,make,oem
+256,val,Porsche Carrera GT.wav,PorscheCarreraGT,16.7,5,Gasoline,V,10,Normally Aspirated,Normal,Unknown,Unknown,5.5,605,Porsche,VW
+4,val,1949 Ford F1 239 Flathead.wav,1949FordF1239Flathead,362.7,120,Gasoline,V,8,Normally Aspirated,Normal,Open Hood,Idle,3.9,90,Ford,Ford
+5,val,1967 Ford Mustang 289ci V8 Hood Open in Garage 271HP 2.wav,1967FordMustang289ciV8HoodOpeninGarage271HP2,65.5,21,Gasoline,V,8,Normally Aspirated,Normal,Open Hood,Idle,4.7,271,Ford,Ford
+6,test,1967 Ford Mustang 289ci V8 Hood Open in Garage 271HP.wav,1967FordMustang289ciV8HoodOpeninGarage271HP,121.6,40,Gasoline,V,8,Normally Aspirated,Normal,Open Hood,Idle,4.7,271,Ford,Ford
+11,val,2006 GM Chevrolet Tahoe Vortec 5300 5.3L V8 STEREO.wav,2006GMChevroletTahoeVortec530053LV8STEREO,20.3,6,Gasoline,V,8,Normally Aspirated,Normal,Open Hood,Idle,5.3,290,Chevrolet,GM
+39,val,2012 Dodge Ram 1500 - 4.7L V8.wav,2012DodgeRam150047LV8,24.6,8,Gasoline,V,8,Normally Aspirated,Normal,Open Hood,Idle,4.7,310,Dodge,Stellantis
+43,test,2012 Nissan Armada - VK56DE 5.6L V8.wav,2012NissanArmadaVK56DE56LV8,40.8,13,Gasoline,V,8,Normally Aspirated,Normal,Unknown,Unknown,5.6,317,Nissan,Nissan
+55,test,2013 GM Chevrolet Silverado Vortec 4800 4.8L V8.wav,2013GMChevroletSilveradoVortec480048LV8,31.6,10,Gasoline,V,8,Normally Aspirated,Normal,Unknown,Unknown,4.8,302,Chevrolet,GM
+75,val,2014 GM Chevrolet Tahoe - Vortec 5300 5.3L V8.wav,2014GMChevroletTahoeVortec530053LV8,25.8,8,Gasoline,V,8,Normally Aspirated,Normal,Open Hood,Idle,5.3,320,Chevrolet,GM
+190,val,InfinitiQX80 V8 Normal 1.wav,InfinitiQX80V8Normal1,121.6,40,Gasoline,V,8,Normally Aspirated,Normal,Open Hood,Idle,5.6,400,Infiniti,Nissan
+191,val,InfinitiQX80 V8 Normal 2.wav,InfinitiQX80V8Normal2,136.8,45,Gasoline,V,8,Normally Aspirated,Normal,Open Hood,Idle,5.6,400,Infiniti,Nissan
+40,test,2012 Jeep Grand Cherokee Pentastar 3.6L V6 WK2 4th Generation.wav,2012JeepGrandCherokeePentastar36LV6WK24thGeneration,24.5,8,Gasoline,V,6,Normally Aspirated,Normal,Unknown,Unknown,3.6,285,Jeep,Stellantis
+41,test,2012 Jeep Liberty SUV 3.7L V6.wav,2012JeepLibertySUV37LV6,34.9,11,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.7,210,Jeep,Stellantis
+42,test,2012 Mazda Mazda3 - Skyactiv-G 2.0L I4.wav,2012MazdaMazda3SkyactivG20LI4,30.1,10,Gasoline,V,6,Normally Aspirated,Normal,Unknown,Unknown,3.7,210,Jeep,Stellantis
+52,test,2013 Dodge Journey - Pentastar 3.6L V6.wav,2013DodgeJourneyPentastar36LV6,32.6,10,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.6,283,Dodge,Stellantis
+74,test,2014 GM Chevrolet Camaro - 3.6L V6.wav,2014GMChevroletCamaro36LV6,30.4,10,Gasoline,V,6,Normally Aspirated,Normal,Unknown,Unknown,3.6,323,Chevrolet,GM
+179,test,Frontier Normal 1.wav,FrontierNormal1,164.7,54,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,4.0,261,Nissan,Nissan
+192,test,Kia Telluride Mark.wav,KiaTellurideMark,30.9,10,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.8,291,Kia,Hyundai
+284,test,fIAT 500 - SCAPPAMENTO A 3000 GIRI.wav,fIAT500SCAPPAMENTOA3000GIRI,103.1,34,Gasoline,Inline,4,Normally Aspirated,Normal,Exhaust,Non Idle,1.2,69,Fiat,Stellantis
+239,test,Panda Chiuso Folle.wav,PandaChiusoFolle,56.8,18,Gasoline,Inline,4,Normally Aspirated,Normal,Closed Hood,Idle,1.2,60,Fiat,Stellantis
+253,test,"Panda,chiuso,folle.wav",Pandachiusofolle,55.9,18,Gasoline,Inline,4,Normally Aspirated,Normal,Closed Hood,Idle,1.2,69,Fiat,Stellantis
+249,test,Panda Tubo Folle.wav,PandaTuboFolle,54.7,18,Gasoline,Inline,4,Normally Aspirated,Normal,Exhaust,Idle,1.2,60,Fiat,Stellantis
+244,test,Panda Gabbo Folle - Cofano chiuso.wav,PandaGabboFolleCofanochiuso,38.9,12,Gasoline,Inline,4,Normally Aspirated,Normal,Closed Hood,Idle,0.9,39,Fiat,Stellantis
+241,test,Panda Gabbo 3000 rpm - Cofano chiuso.wav,PandaGabbo3000rpmCofanochiuso,35.8,11,Gasoline,Inline,4,Normally Aspirated,Normal,Closed Hood,Non Idle,0.9,39,Fiat,Stellantis
+14,test,2010 Ford Fusion - Duratec 25 2.5L I4 STEREO.wav,2010FordFusionDuratec2525LI4STEREO,34.4,11,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.5,175,Ford,Ford
+35,test,2011 Nissan Rogue SUV - QR25DE 2.5L I4.wav,2011NissanRogueSUVQR25DE25LI4,32.9,10,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.5,150,Nissan,Nissan
+60,test,2013 Mazda CX-5 SUV - 2.0L I4.wav,2013MazdaCX5SUV20LI4,30.0,10,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.0,150,Mazda,Mazda
+198,test,Mazda 3 SkyActiv G165 - stock exhaust cold startup and idling 2.wav,Mazda3SkyActivG165stockexhaustcoldstartupandidling2,29.6,9,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Unknown,2.0,163,Mazda,Mazda
+83,test,2014 To 2019 Kia Soul Nu 2.0L GDI I4.wav,2014To2019KiaSoulNu20LGDII4,27.7,9,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.0,164,Kia,Hyundai
+32,test,2011 Hyundai Elantra 1.8L Nu MPI I4.wav,2011HyundaiElantra18LNuMPII4,27.6,9,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,1.8,150,Hyundai,Hyundai
+84,test,2014-2018 Jeep Cherokee 2.4L I4.wav,20142018JeepCherokee24LI4,25.6,8,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.4,184,Jeep,Stellantis
+76,test,2014 Hyundai Tucson SUV - Theta II 2.4L I4.wav,2014HyundaiTucsonSUVThetaII24LI4,24.5,8,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.4,182,Hyundai,Hyundai
+48,test,2012-2016 Toyota Yaris 1NZ-FE 1.5L I4.wav,20122016ToyotaYaris1NZFE15LI4,22.3,7,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,1.5,110,Toyota,Toyota
+255,test,"Panda,scappamento,folle.wav",Pandascappamentofolle,14.3,4,Gasoline,Inline,4,Normally Aspirated,Normal,Exhaust,Idle,1.2,69,Fiat,Stellantis
+279,val,Veloster I4 Normal 1.wav,VelosterI4Normal1,369.9,123,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,1.6,138,Hyundai,Hyundai
+7,val,2001-2006 Acura MDX 3.5L V6 VTEC.wav,20012006AcuraMDX35LV6VTEC,25.8,8,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,290,Acura,Honda
+8,val,2005-2010 Honda Odyssey Minivan 3.5L V6.wav,20052010HondaOdysseyMinivan35LV6,29.8,9,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,244,Honda,Honda
+9,val,2005-2015 Toyota Tacoma 1GR-FE 4.0L V6 STEREO.wav,20052015ToyotaTacoma1GRFE40LV6STEREO,28.1,9,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,4.0,290,Toyota,Toyota
+10,val,2005-2016 Nissan Frontier VQ40DE 4.0L V6 STEREO.wav,20052016NissanFrontierVQ40DE40LV6STEREO,25.4,8,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,4.0,280,Nissan,Nissan
+12,val,2008 Mercedes Benz ML 350- 3.5L V6 Engine STEREO.wav,2008MercedesBenzML35035LV6EngineSTEREO,10.2,3,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,270,Mercedes,Daimler
+17,val,2010-2016 Toyota 4Runner SUV - 1GR-FE 4.0L V6 1.wav,20102016Toyota4RunnerSUV1GRFE40LV61,6.1,2,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,4.0,239,Toyota,Toyota
+18,val,2010-2016 Toyota 4Runner SUV - 1GR-FE 4.0L V6 4.wav,20102016Toyota4RunnerSUV1GRFE40LV64,3.5,1,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,4.0,239,Toyota,Toyota
+19,val,2010-Dodge-Charger-SXT-3-5-L-V6.wav,2010DodgeChargerSXT35LV6,22.7,7,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,250,Dodge,Stellantis
+33,val,2011 Mazda CX-9 MZI 3.7L V6 1.wav,2011MazdaCX9MZI37LV61,23.7,7,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.7,290,Mazda,Mazda
+34,val,2011 Mazda CX-9 MZI 3.7L V6 2.wav,2011MazdaCX9MZI37LV62,7.3,2,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.7,290,Mazda,Mazda
+36,val,2011-2017 Chrysler 300 Sedan - Pentastar 3.6L V6.wav,20112017Chrysler300SedanPentastar36LV6,28.7,9,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.6,290,Chrysler,Stellantis
+45,val,2012 Toyota Sienna 3.5L V6 2GR-F.wav,2012ToyotaSienna35LV62GRF,23.1,7,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,300,Toyota,Toyota
+47,val,2012-2016 Buick LaCrosse LFX 3.6L V6.wav,20122016BuickLaCrosseLFX36LV6,30.0,10,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.6,303,Buick,GM
+53,val,2013 Ford Taurus Limited Sedan - Duratec 35 3.5L V6.wav,2013FordTaurusLimitedSedanDuratec3535LV6,26.4,8,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,290,Ford,Ford
+62,val,2013 Toyota Highlander Engine Idling After Oil Change - 2GR-FE 3.5L V6.wav,2013ToyotaHighlanderEngineIdlingAfterOilChange2GRFE35LV6,30.4,10,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,270,Toyota,Toyota
+66,val,2013-2016 GMC Terrain LFX 3.6L V6.wav,20132016GMCTerrainLFX36LV6,26.1,8,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.6,301,GMC,GM
+67,val,2013-2016 Nissan Pathfinder VQ35DE 3.5L V6.wav,20132016NissanPathfinderVQ35DE35LV6,19.1,6,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,260,Nissan,Nissan
+68,val,2013-2017 Toyota Avalon 2GR-FE 3.5L V6.wav,20132017ToyotaAvalon2GRFE35LV6,23.5,7,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,268,Toyota,Toyota
+69,val,2014 Dodge Charger Sedan - Pentastar 3.6L V6.wav,2014DodgeChargerSedanPentastar36LV6,28.9,9,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.6,292,Dodge,Stellantis
+70,val,2014 Dodge Durango SUV - Pentastar 3.6L V6 2.wav,2014DodgeDurangoSUVPentastar36LV62,22.8,7,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.6,290,Dodge,Stellantis
+46,test,2012 VW Jetta 2.5L I5.wav,2012VWJetta25LI5,27.7,9,Gasoline,Inline,5,Normally Aspirated,Normal,Unknown,Unknown,2.5,175,VW,VW
+71,val,2014 Dodge Durango SUV - Pentastar 3.6L V6.wav,2014DodgeDurangoSUVPentastar36LV6,4.2,1,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.6,290,Dodge,Stellantis
+72,val,2014 Ford Explorer SUV - Duratec 35 3.5L V6.wav,2014FordExplorerSUVDuratec3535LV6,30.1,10,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,290,Ford,Ford
+82,val,2014 Nissan Murano SUV - Engine Idling V6.wav,2014NissanMuranoSUVEngineIdlingV6,18.3,6,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,260,Nissan,Nissan
+90,val,2014-2018 Toyota Highlander SUV 3.5L V6.wav,20142018ToyotaHighlanderSUV35LV6,24.8,8,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,270,Toyota,Toyota
+91,val,2015 Dodge Challenger Pentastar 3.6L V6 2.wav,2015DodgeChallengerPentastar36LV62,23.9,7,Gasoline,V,6,Normally Aspirated,Normal,Unknown,Unknown,3.6,305,Dodge,Stellantis
+92,val,2015 Dodge Challenger Pentastar 3.6L V6.wav,2015DodgeChallengerPentastar36LV6,3.4,1,Gasoline,V,6,Normally Aspirated,Normal,Unknown,Unknown,3.6,305,Dodge,Stellantis
+95,val,2015 To 2019 GM Chevrolet Colorado Truck - 3.6L V6.wav,2015To2019GMChevroletColoradoTruck36LV6,24.2,8,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.6,305,Chevrolet,GM
+103,val,2015-2018 Nissan Murano VQ35DE 3.5L V6.wav,20152018NissanMuranoVQ35DE35LV6,22.9,7,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,260,Nissan,Nissan
+107,val,2016-2018 Nissan Maxima VQ35DE 3.5L V6 Engine.wav,20162018NissanMaximaVQ35DE35LV6Engine,22.9,7,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,300,Nissan,Nissan
+112,val,2017 Chrysler Pacifica Minivan - Pentastar 3.6L V6.wav,2017ChryslerPacificaMinivanPentastar36LV6,29.8,9,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.6,287,Chrysler,Stellantis
+117,val,2019 Ford Flex Duratec 35 3.5L V6.wav,2019FordFlexDuratec3535LV6,23.4,7,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,290,Ford,Ford
+164,val,Dodge Grand Caravan Owen.wav,DodgeGrandCaravanOwen,130.4,43,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.8,215,Dodge,Stellantis
+166,val,Enclave.wav,Enclave,130.8,43,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.6,275,Buick,GM
+187,val,Honda Pilot Owen.wav,HondaPilotOwen,130.4,43,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,250,Honda,Honda
+220,val,Optima Normal 1.wav,OptimaNormal1,304.8,101,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.4,200,Kia,Hyundai
+231,val,OUTSAMPLE Regal Idle Normal 6.wav,OUTSAMPLERegalIdleNormal6,200.2,66,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.0,260,Buick,GM
+172,val,Focus Normal 1.wav,FocusNormal1,151.6,50,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.0,160,Ford,Ford
+199,val,Mazda 3 SkyActiv G165 - stock exhaust.wav,Mazda3SkyActivG165stockexhaust,144.0,47,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Idle,2.0,163,Mazda,Mazda
+213,val,Nissan Micra 1.wav,NissanMicra1,135.0,44,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,1.0,60,Nissan,Nissan
+280,val,VW Passat 1.wav,VWPassat1,132.7,44,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.0,131,VW,VW
+176,val,Ford Fusion Owen.wav,FordFusionOwen,130.5,43,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.5,175,Ford,Ford
+276,val,Toyota Camry Owen.wav,ToyotaCamryOwen,130.4,43,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.4,258,Toyota,Toyota
+269,val,Sentra Normal 1.wav,SentraNormal1,125.2,41,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,Unknown,Unknown,Nissan,Nissan
+162,val,Corolla Normal Defrost.wav,CorollaNormalDefrost,124.1,41,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,Unknown,Unknown,Toyota,Toyota
+163,val,Corolla Normal No Defrost.wav,CorollaNormalNoDefrost,123.3,41,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,Unknown,Unknown,Toyota,Toyota
+221,val,Optima Normal 2.wav,OptimaNormal2,122.7,40,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.4,200,Kia,Hyundai
+144,val,Camry Normal 1.wav,CamryNormal1,121.9,40,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,Unknown,Unknown,Toyota,Toyota
+229,val,OUTSAMPLE Nissan Versa Note Normal 1.wav,OUTSAMPLENissanVersaNoteNormal1,121.9,40,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,Unknown,Unknown,Nissan,Nissan
+275,val,Sonata I4 24l Normal 1.wav,SonataI424lNormal1,121.8,40,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.4,177,Hyundai,Hyundai
+226,val,OUTSAMPLE Corolla 2 Normal 1.wav,OUTSAMPLECorolla2Normal1,121.2,40,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,Unknown,Unknown,Toyota,Toyota
+214,val,Nissan Rogue Mark.wav,NissanRogueMark,121.1,40,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.5,170,Nissan,Nissan
+282,val,fIAT 500 - FUORI COFANO IN FOLLE.wav,fIAT500FUORICOFANOINFOLLE,114.9,38,Gasoline,Inline,4,Normally Aspirated,Normal,Closed Hood,Idle,1.2,69,Fiat,Stellantis
+286,val,fIAT 500 - VICINO MOTORE IN FOLLE.wav,fIAT500VICINOMOTOREINFOLLE,112.5,37,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,1.2,69,Fiat,Stellantis
+168,val,Fiat 500 cofano aperto .wav,Fiat500cofanoaperto,112.1,37,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,1.2,73,Fiat,Stellantis
+170,val,Fiat 500 tubo di scappamento .wav,Fiat500tubodiscappamento,110.5,36,Gasoline,Inline,4,Normally Aspirated,Normal,Exhaust,Idle,1.2,73,Fiat,Stellantis
+281,val,fIAT 500 - FUORI COFANO A 3000 GIRI.wav,fIAT500FUORICOFANOA3000GIRI,103.9,34,Gasoline,Inline,4,Normally Aspirated,Normal,Closed Hood,Non Idle,1.2,69,Fiat,Stellantis
+285,val,fIAT 500 - VICINO MOTORE A 3000 GIRI.wav,fIAT500VICINOMOTOREA3000GIRI,103.6,34,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Non Idle,1.2,69,Fiat,Stellantis
+169,val,Fiat 500 sul cofano.wav,Fiat500sulcofano,89.2,29,Gasoline,Inline,4,Normally Aspirated,Normal,Closed Hood,Idle,1.2,73,Fiat,Stellantis
+222,val,Optima Normal 3.wav,OptimaNormal3,62.4,20,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.4,200,Kia,Hyundai
+236,val,Panda Aperto Folle.wav,PandaApertoFolle,60.1,20,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,1.2,60,Fiat,Stellantis
+235,val,Panda Aperto 3000.wav,PandaAperto3000,56.1,18,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Non Idle,1.2,60,Fiat,Stellantis
+238,val,Panda Chiuso 3000.wav,PandaChiuso3000,55.4,18,Gasoline,Inline,4,Normally Aspirated,Normal,Closed Hood,Non Idle,1.2,60,Fiat,Stellantis
+251,val,"Panda,aperto,folle.wav",Pandaapertofolle,53.8,17,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,1.2,69,Fiat,Stellantis
+248,val,Panda Tubo 3000.wav,PandaTubo3000,52.3,17,Gasoline,Inline,4,Normally Aspirated,Normal,Exhaust,Non Idle,1.2,60,Fiat,Stellantis
+184,val,Getz Gabbo Folle - Cofano aperto.wav,GetzGabboFolleCofanoaperto,52.2,17,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,1.1,63,Hyundai,Hyundai
+242,val,Panda Gabbo 3000 rpm - Marmitta.wav,PandaGabbo3000rpmMarmitta,46.1,15,Gasoline,Inline,4,Normally Aspirated,Normal,Exhaust,Non Idle,0.9,39,Fiat,Stellantis
+283,val,fIAT 500 - SCAPPAMENTO  IN FOLLE.wav,fIAT500SCAPPAMENTOINFOLLE,44.9,14,Gasoline,Inline,4,Normally Aspirated,Normal,Exhaust,Idle,1.2,69,Fiat,Stellantis
+183,val,Getz Gabbo 3000 rpm - Marmitta.wav,GetzGabbo3000rpmMarmitta,44.6,14,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Non Idle,1.1,63,Hyundai,Hyundai
+185,val,Getz Gabbo Folle - Cofano chiuso.wav,GetzGabboFolleCofanochiuso,43.8,14,Gasoline,Inline,4,Normally Aspirated,Normal,Closed Hood,Idle,1.1,63,Hyundai,Hyundai
+243,val,Panda Gabbo Folle - Cofano aperto.wav,PandaGabboFolleCofanoaperto,42.3,14,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,0.9,39,Fiat,Stellantis
+240,val,Panda Gabbo 3000 rpm - Cofano aperta.wav,PandaGabbo3000rpmCofanoaperta,41.9,13,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Non Idle,0.9,39,Fiat,Stellantis
+182,val,Getz Gabbo 3000 rpm - Cofano chiuso.wav,GetzGabbo3000rpmCofanochiuso,41.6,13,Gasoline,Inline,4,Normally Aspirated,Normal,Closed Hood,Non Idle,1.1,63,Hyundai,Hyundai
+181,val,Getz Gabbo 3000 rpm - Cofano aperto.wav,GetzGabbo3000rpmCofanoaperto,41.3,13,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Non Idle,1.1,63,Hyundai,Hyundai
+113,val,2017 Kia Optima GDI.wav,2017KiaOptimaGDI,39.9,13,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,Unknown,Unknown,Kia,Hyundai
+186,val,Getz Gabbo Folle - Marmitta.wav,GetzGabboFolleMarmitta,37.8,12,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Idle,1.1,63,Hyundai,Hyundai
+245,val,Panda Gabbo Folle - Marmitta.wav,PandaGabboFolleMarmitta,36.9,12,Gasoline,Inline,4,Normally Aspirated,Normal,Exhaust,Idle,0.9,39,Fiat,Stellantis
+89,val,2014-2018 Toyota Corolla 2ZR-FE 1.8L I4.wav,20142018ToyotaCorolla2ZRFE18LI4,36.7,12,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,1.8,132,Toyota,Toyota
+78,val,2014 Kia Sorento SUV Theta II 2.4L I4.wav,2014KiaSorentoSUVThetaII24LI4,29.8,9,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Unknown,2.4,191,Kia,Hyundai
+61,val,2013 Toyota Camry LE - 2AR-FE 2.5L I4.wav,2013ToyotaCamryLE2ARFE25LI4,29.7,9,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Unknown,2.5,178,Toyota,Toyota
+63,val,2013 Toyota RAV4 SUV 2AR-FE 2.5L I4.wav,2013ToyotaRAV4SUV2ARFE25LI4,29.4,9,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Unknown,2.5,176,Toyota,Toyota
+115,val,2018-2022 Toyota Camry 2.5L I4.wav,20182022ToyotaCamry25LI4,29.1,9,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.5,203,Toyota,Toyota
+85,val,2014-2018 Mazda Mazda6 - SkyActiv 2.5L I4.wav,20142018MazdaMazda6SkyActiv25LI4,28.7,9,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.5,184,Mazda,Mazda
+57,val,2013 Hyundai Accent - Gamma GDI 1.6L I4 1.wav,2013HyundaiAccentGammaGDI16LI41,26.7,8,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Unknown,1.6,138,Hyundai,Hyundai
+44,val,2012 Toyota Prius Hybrid Hatchback Test Drive - 1.8L.wav,2012ToyotaPriusHybridHatchbackTestDrive18L,24.6,8,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Unknown,Unknown,98,Toyota,Toyota
+101,val,2015-2018 Jeep Renegade SUV - Tigershark 2.4L I4 2.wav,20152018JeepRenegadeSUVTigershark24LI42,24.3,8,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.4,180,Jeep,Stellantis
+51,val,2013 Chrysler 200 - 2.4L I4.wav,2013Chrysler20024LI4,23.7,7,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Unknown,2.4,173,Chrysler,Stellantis
+203,val,Mazda3_Normal2.wav,Mazda3Normal2,22.7,7,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,Unknown,Unknown,Mazda,Mazda
+77,val,2014 Kia Rio Gamma 1.6L I4 GDI.wav,2014KiaRioGamma16LI4GDI,21.8,7,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,1.6,138,Kia,Hyundai
+15,val,2010 GM Chevrolet Cobalt 2.2L.wav,2010GMChevroletCobalt22L,21.0,6,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Unknown,2.2,155,Chevrolet,GM
+56,val,2013 GM Chevrolet Sonic Sedan - Ecotec A18XER 1.8L.wav,2013GMChevroletSonicSedanEcotecA18XER18L,20.4,6,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Unknown,1.8,138,Chevrolet,GM
+16,val,2010 Toyota Camry SE 2.5L I4 STEREO.wav,2010ToyotaCamrySE25LI4STEREO,20.3,6,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Unknown,2.5,179,Toyota,Toyota
+64,val,2013-2016 Dodge Dart Tigershark 2.0L I4.wav,20132016DodgeDartTigershark20LI4,18.6,6,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.0,160,Dodge,Stellantis
+59,val,2013 Hyundai Accent - Gamma GDI 1.6L I4 3.wav,2013HyundaiAccentGammaGDI16LI43,18.1,6,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Unknown,1.6,138,Hyundai,Hyundai
+202,val,Mazda3_Normal1.wav,Mazda3Normal1,14.1,4,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,Unknown,Unknown,Mazda,Mazda
+37,val,2011-2017 Mitsubishi Outlander Sport MIVEC 2.0L I4 1.wav,20112017MitsubishiOutlanderSportMIVEC20LI41,13.7,4,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.0,150,Mitsubishi,Mitsubishi
+201,val,Mazda3_Normal_Talking.wav,Mazda3NormalTalking,12.2,4,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,Unknown,Unknown,Mazda,Mazda
+252,val,"Panda,chiuso,3000.wav",Pandachiuso3000,10.9,3,Gasoline,Inline,4,Normally Aspirated,Normal,Closed Hood,Non Idle,1.2,69,Fiat,Stellantis
+250,val,"Panda,aperto,3000.wav",Pandaaperto3000,9.8,3,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Non Idle,1.2,69,Fiat,Stellantis
+254,val,"Panda,scappamento,3000.wav",Pandascappamento3000,8.8,2,Gasoline,Inline,4,Normally Aspirated,Normal,Exhaust,Non Idle,1.2,69,Fiat,Stellantis
+38,val,2011-2017 Mitsubishi Outlander Sport MIVEC 2.0L I4 2.wav,20112017MitsubishiOutlanderSportMIVEC20LI42,8.6,2,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.0,150,Mitsubishi,Mitsubishi
+58,val,2013 Hyundai Accent - Gamma GDI 1.6L I4 2.wav,2013HyundaiAccentGammaGDI16LI42,8.1,2,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Unknown,1.6,138,Hyundai,Hyundai
+102,val,2015-2018 Jeep Renegade SUV - Tigershark 2.4L I4 3.wav,20152018JeepRenegadeSUVTigershark24LI43,5.9,1,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,2.4,180,Jeep,Stellantis
+193,test,Lucy.wav,Lucy,14.9,4,Gasoline,Inline,6,Normally Aspirated,Normal,Open Hood,Idle,3.8,123,Chevrolet,GM
+126,val,Acadia Normal 1.wav,AcadiaNormal1,309.3,103,Gasoline,Inline,6,Normally Aspirated,Normal,Open Hood,Idle,3.6,288,GMC,GM
+234,val,Pacifica Normal.wav,PacificaNormal,102.5,34,Gasoline,Inline,6,Normally Aspirated,Normal,Open Hood,Idle,3.6,287,Chrysler,Stellantis
+154,val,Cofano aperto 3000rpm_Peugeot2008.wav,Cofanoaperto3000rpmPeugeot2008,37.7,12,Diesel,Inline,4,Normally Aspirated,Normal,Open Hood,Non Idle,1.5,73,Peugeot,Stellantis
+156,test,Cofano aperto idle_Peugeot2008.wav,CofanoapertoidlePeugeot2008,55.3,18,Diesel,Inline,4,Normally Aspirated,Normal,Open Hood,Non Idle,1.5,73,Peugeot,Stellantis
+158,val,Cofano chiuso 3000rpm_Peugeot2008.wav,Cofanochiuso3000rpmPeugeot2008,37.0,12,Diesel,Inline,4,Normally Aspirated,Normal,Closed Hood,Non Idle,1.5,73,Peugeot,Stellantis
+160,val,Cofano chiuso idle_Peugeot2008.wav,CofanochiusoidlePeugeot2008,55.1,18,Diesel,Inline,4,Normally Aspirated,Normal,Closed Hood,Non Idle,1.5,73,Peugeot,Stellantis
+195,val,Marmitta 3000rpm_Peugeot2008.wav,Marmitta3000rpmPeugeot2008,30.8,10,Diesel,Inline,4,Normally Aspirated,Normal,Exhaust,Non Idle,1.5,73,Peugeot,Stellantis
+197,val,Marmitta idle_Peugeot2008.wav,MarmittaidlePeugeot2008,46.2,15,Diesel,Inline,4,Normally Aspirated,Normal,Exhaust,Non Idle,1.5,73,Peugeot,Stellantis
+86,val,2014-2018 Subaru Forester FB25 2.5L 2.wav,20142018SubaruForesterFB2525L2,8.2,2,Gasoline,Flat,4,Normally Aspirated,Normal,Unknown,Unknown,2.5,170,Subaru,Subaru
+87,val,2014-2018 Subaru Forester FB25 2.5L 3.wav,20142018SubaruForesterFB2525L3,3.2,1,Gasoline,Flat,4,Normally Aspirated,Normal,Unknown,Unknown,2.5,170,Subaru,Subaru
+88,test,2014-2018 Subaru Forester FB25 2.5L.wav,20142018SubaruForesterFB2525L,8.5,2,Gasoline,Flat,4,Normally Aspirated,Normal,Unknown,Unknown,2.5,170,Subaru,Subaru
+104,val,2015-2018 Subaru Outback FB25 2.5L.wav,20152018SubaruOutbackFB2525L,30.1,10,Gasoline,Flat,4,Normally Aspirated,Normal,Unknown,Unknown,2.5,170,Subaru,Subaru
+153,test,Cofano aperto 3000rpm_CitroenC1.wav,Cofanoaperto3000rpmCitroenC1,36.7,12,Gasoline,Inline,3,Normally Aspirated,Normal,Open Hood,Non Idle,1.0,67,Citroen,Stellantis
+155,test,Cofano aperto idle_CitroenC1.wav,CofanoapertoidleCitroenC1,56.6,18,Gasoline,Inline,3,Normally Aspirated,Normal,Open Hood,Idle,1.0,67,Citroen,Stellantis
+157,val,Cofano chiuso 3000rpm_CitroenC1.wav,Cofanochiuso3000rpmCitroenC1,37.5,12,Gasoline,Inline,3,Normally Aspirated,Normal,Closed Hood,Non Idle,1.0,67,Citroen,Stellantis
+159,val,Cofano chiuso idle_CitroenC1.wav,CofanochiusoidleCitroenC1,55.4,18,Gasoline,Inline,3,Normally Aspirated,Normal,Closed Hood,Idle,1.0,67,Citroen,Stellantis
+194,val,Marmitta 3000rpm_CitroenC1.wav,Marmitta3000rpmCitroenC1,35.0,11,Gasoline,Inline,3,Normally Aspirated,Normal,Exhaust,Non Idle,1.0,67,Citroen,Stellantis
+196,val,Marmitta idle_CitroenC1.wav,MarmittaidleCitroenC1,47.0,15,Gasoline,Inline,3,Normally Aspirated,Normal,Exhaust,Idle,1.0,67,Citroen,Stellantis
+1,val,"124,aperto,folle.wav",124apertofolle,30.6,10,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.4,138,Fiat,Stellantis
+2,test,"124,chiuso,folle.wav",124chiusofolle,44.4,14,Gasoline,Inline,4,Turbocharged,Normal,Closed Hood,Idle,1.4,138,Fiat,Stellantis
+3,test,"124,scappamento,folle.wav",124scappamentofolle,37.6,12,Gasoline,Inline,4,Turbocharged,Normal,Exhaust,Idle,1.4,138,Fiat,Stellantis
+13,val,2009-2017 VW Tiguan 2.0L TSI Turbo I4 STEREO.wav,20092017VWTiguan20LTSITurboI4STEREO,21.9,7,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,200,VW,VW
+20,val,2011 Audi A4 Normal 4.wav,2011AudiA4Normal4,15.4,5,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,211,Audi,VW
+26,val,2011 Buick Regal Pkmn Normal OUTSAMPLE 1.wav,2011BuickRegalPkmnNormalOUTSAMPLE1,34.9,11,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+27,val,2011 Buick Regal Pkmn Normal OUTSAMPLE 2.wav,2011BuickRegalPkmnNormalOUTSAMPLE2,43.3,14,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+28,val,2011 Buick Regal Pkmn Normal OUTSAMPLE 3.wav,2011BuickRegalPkmnNormalOUTSAMPLE3,37.5,12,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+29,val,2011 Buick Regal Pkmn Normal OUTSAMPLE 4.wav,2011BuickRegalPkmnNormalOUTSAMPLE4,40.5,13,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+30,val,2011 Buick Regal Pkmn Normal OUTSAMPLE 5.wav,2011BuickRegalPkmnNormalOUTSAMPLE5,41.9,13,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+31,val,2011 Buick Regal W04G15GV9B1109087 2.0L I4 Turbo 270HP Hood Open Outside.wav,2011BuickRegalW04G15GV9B110908720LI4Turbo270HPHoodOpenOutside,125.6,41,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+54,val,2013 GM Chevrolet Cruze - Ecotec 1.4L.wav,2013GMChevroletCruzeEcotec14L,22.0,7,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.4,153,Chevrolet,GM
+65,val,2013-2016 Ford Escape EcoBoost 2.0L I4.wav,20132016FordEscapeEcoBoost20LI4,38.3,12,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,252,Ford,Ford
+73,val,2014 Ford Fusion Titanium EcoBoost.wav,2014FordFusionTitaniumEcoBoost,9.0,3,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,252,Ford,Ford
+79,val,2014 Nissan Juke MR16DDT 1.6L Turbo-Charged I4 1.wav,2014NissanJukeMR16DDT16LTurboChargedI41,3.1,1,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.6,188,Nissan,Nissan
+80,val,2014 Nissan Juke MR16DDT 1.6L Turbo-Charged I4 2.wav,2014NissanJukeMR16DDT16LTurboChargedI42,17.3,5,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.6,188,Nissan,Nissan
+81,val,2014 Nissan Juke MR16DDT 1.6L Turbo-Charged I4 3.wav,2014NissanJukeMR16DDT16LTurboChargedI43,9.6,3,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.6,188,Nissan,Nissan
+93,val,2015 To 2019 Ford Edge EcoBoost 2.0L I4 Turbocharged 2.wav,2015To2019FordEdgeEcoBoost20LI4Turbocharged2,18.1,6,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,245,Ford,Ford
+94,val,2015 To 2019 Ford Edge EcoBoost 2.0L I4 Turbocharged.wav,2015To2019FordEdgeEcoBoost20LI4Turbocharged,21.9,7,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,245,Ford,Ford
+96,val,2015 Volkswagen Beetle - TSI 1.8L Turbo I4 2.wav,2015VolkswagenBeetleTSI18LTurboI42,27.3,9,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.8,170,VW,VW
+97,test,2015 Volvo XC60 2.0L I4 Turbocharged Supercharged 302HP Y44DM9F2650476 Hood Open Outside.wav,2015VolvoXC6020LI4TurbochargedSupercharged302HPY44DM9F2650476HoodOpenOutside,123.5,41,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,302,Volvo,Geely
+98,val,2015 VW Passat TSI Turbo 1.8L I4.wav,2015VWPassatTSITurbo18LI4,22.0,7,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.8,170,VW,VW
+99,val,2015_2016 VW Passat B8 2.0 TDI 150hp.wav,20152016VWPassatB820TDI150hp,17.7,5,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,150,VW,VW
+100,val,2015_2016 VW Passat B8 2.0 TDI 150hp1.wav,20152016VWPassatB820TDI150hp1,6.8,2,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,150,VW,VW
+109,test,"2016, 2017, 2018 & 2019 GM Chevrolet Cruze Ecotec Turbo 1.4L I4.wav",201620172018&2019GMChevroletCruzeEcotecTurbo14LI4,24.1,8,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.4,153,Chevrolet,GM
+114,test,2018 To 2022 GM Chevrolet Equinox Ecotec 1.5L Turbo I4.wav,2018To2022GMChevroletEquinoxEcotec15LTurboI4,35.4,11,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.5,170,Chevrolet,GM
+118,val,500L 3000 rpm - Cofano aperto.wav,500L3000rpmCofanoaperto,43.7,14,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Non Idle,1.6,105,Fiat,Stellantis
+119,val,500L 3000 rpm - Cofano chiuso.wav,500L3000rpmCofanochiuso,47.6,15,Diesel,Inline,4,Turbocharged,Normal,Closed Hood,Non Idle,1.6,105,Fiat,Stellantis
+120,val,500L 3000 rpm - Marmitta.wav,500L3000rpmMarmitta,40.9,13,Diesel,Inline,4,Turbocharged,Normal,Exhaust,Non Idle,1.6,105,Fiat,Stellantis
+121,test,500L Folle - Cofano aperto.wav,500LFolleCofanoaperto,41.7,13,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.6,105,Fiat,Stellantis
+122,val,500L Folle - Cofano chiuso.wav,500LFolleCofanochiuso,33.5,11,Diesel,Inline,4,Turbocharged,Normal,Closed Hood,Idle,1.6,105,Fiat,Stellantis
+123,val,500L Folle - Marmitta.wav,500LFolleMarmitta,47.5,15,Diesel,Inline,4,Turbocharged,Normal,Exhaust,Idle,1.6,105,Fiat,Stellantis
+127,val,Aperto Ettore minimo.wav,ApertoEttoreminimo,56.1,18,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.2,184,Mazda,Mazda
+128,val,Audi Q5 cofano aperto .wav,AudiQ5cofanoaperto,113.4,37,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,167,Audi,VW
+129,val,Audi Q5 sul cofano.wav,AudiQ5sulcofano,94.2,31,Diesel,Inline,4,Turbocharged,Normal,Closed Hood,Idle,2.0,167,Audi,VW
+130,test,Audi Q5 tubo di scappamento .wav,AudiQ5tubodiscappamento,108.1,36,Diesel,Inline,4,Turbocharged,Normal,Exhaust,Idle,2.0,167,Audi,VW
+131,val,BMW fuori dal cofano a 3000 giri.wav,BMWfuoridalcofanoa3000giri,108.5,36,Diesel,Inline,6,Turbocharged,Normal,Closed Hood,Non Idle,3.0,241,BMW,BMW
+132,val,BMW fuori dal cofano in folle 2.wav,BMWfuoridalcofanoinfolle2,31.9,10,Diesel,Inline,6,Turbocharged,Normal,Closed Hood,Idle,3.0,241,BMW,BMW
+133,val,BMW fuori dal cofano in folle.wav,BMWfuoridalcofanoinfolle,63.4,21,Diesel,Inline,6,Turbocharged,Normal,Closed Hood,Idle,3.0,241,BMW,BMW
+134,val,BMW vicino al motore in folle.wav,BMWvicinoalmotoreinfolle,113.9,37,Diesel,Inline,6,Turbocharged,Normal,Open Hood,Idle,3.0,241,BMW,BMW
+135,val,BMW vicino motore a 3000 giri.wav,BMWvicinomotorea3000giri,103.3,34,Diesel,Inline,6,Turbocharged,Normal,Open Hood,Non Idle,3.0,241,BMW,BMW
+136,val,BMW vicino scappamento a 3000 giri.wav,BMWvicinoscappamentoa3000giri,109.6,36,Diesel,Inline,6,Turbocharged,Normal,Exhaust,Non Idle,3.0,241,BMW,BMW
+137,test,BMW X1 Nonno.wav,BMWX1Nonno,96.8,32,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,177,BMW,BMW
+138,val,Buick Regal I4 Idle Normal 2.wav,BuickRegalI4IdleNormal2,62.9,20,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+139,val,Buick Regal I4 Idle Normal 3.wav,BuickRegalI4IdleNormal3,311.6,103,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+140,val,Buick Regal I4 Idle Normal.wav,BuickRegalI4IdleNormal,33.2,11,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+141,val,Buick Regal Owen.wav,BuickRegalOwen,130.4,43,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,250,Buick,GM
+142,val,Buick Regal.wav,BuickRegal,130.4,43,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+145,val,Chiudo ettore 3000.wav,Chiudoettore3000,49.1,16,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Non Idle,2.2,184,Mazda,Mazda
+146,test,Chiuso minimo Ettore.wav,ChiusominimoEttore,52.0,17,Diesel,Inline,4,Turbocharged,Normal,Closed Hood,Idle,2.2,184,Mazda,Mazda
+147,val,Cmax Aperto 3000.wav,CmaxAperto3000,51.4,17,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Non Idle,1.6,115,Ford,Ford
+148,val,Cmax Aperto Folle.wav,CmaxApertoFolle,53.4,17,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.6,115,Ford,Ford
+149,val,Cmax Chiuso 3000.wav,CmaxChiuso3000,44.5,14,Diesel,Inline,4,Turbocharged,Normal,Closed Hood,Non Idle,1.6,115,Ford,Ford
+150,val,Cmax Chiuso Folle.wav,CmaxChiusoFolle,54.8,18,Diesel,Inline,4,Turbocharged,Normal,Closed Hood,Idle,1.6,115,Ford,Ford
+151,val,Cmax Tubo 3000.wav,CmaxTubo3000,39.7,13,Diesel,Inline,4,Turbocharged,Normal,Exhaust,Non Idle,1.6,115,Ford,Ford
+152,val,Cmax Tubo Folle.wav,CmaxTuboFolle,53.0,17,Diesel,Inline,4,Turbocharged,Normal,Exhaust,Idle,1.6,115,Ford,Ford
+167,test,Ettore aperto 3000g.wav,Ettoreaperto3000g,56.7,18,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Non Idle,2.2,184,Mazda,Mazda
+189,val,Hyundai-Santa-Fe-SUV-2-5-L-I4.wav,HyundaiSantaFeSUV25LI4,30.6,10,Gasoline,Inline,4,Turbocharged,Normal,Unknown,Unknown,2.5,277,Hyundai,Hyundai
+204,val,Micra Aperto 3000.wav,MicraAperto3000,58.0,19,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Non Idle,1.4,90,Nissan,Nissan
+205,val,Micra Aperto Folle.wav,MicraApertoFolle,61.8,20,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.4,90,Nissan,Nissan
+206,val,Micra Chiuso 3000.wav,MicraChiuso3000,54.2,18,Diesel,Inline,4,Turbocharged,Normal,Closed Hood,Non Idle,1.4,90,Nissan,Nissan
+207,val,Micra Chiuso Folle.wav,MicraChiusoFolle,62.3,20,Diesel,Inline,4,Turbocharged,Normal,Closed Hood,Idle,1.4,90,Nissan,Nissan
+208,test,Micra Tubo 3000.wav,MicraTubo3000,54.4,18,Diesel,Inline,4,Turbocharged,Normal,Exhaust,Non Idle,1.4,90,Nissan,Nissan
+209,val,Micra Tubo Folle.wav,MicraTuboFolle,60.7,20,Diesel,Inline,4,Turbocharged,Normal,Exhaust,Idle,1.4,90,Nissan,Nissan
+210,val,MotorSound - Audi A3 (8V) 2.0 TDI EA288 150 PS.wav,MotorSoundAudiA3(8V)20TDIEA288150PS,22.1,7,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,150,Audi,VW
+211,val,MotorSound - Audi A4 B6 1.9 TDI AVF 130 PS (original) chip tuned about 160 PS.wav,MotorSoundAudiA4B619TDIAVF130PS(original)chiptunedabout160PS,44.1,14,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Idle,1.9,160,Audi,VW
+212,val,MotorSound - BMW F22 220d xDrive B47D20 190 PS.wav,MotorSoundBMWF22220dxDriveB47D20190PS,19.4,6,Diesel,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.2,190,BMW,BMW
+223,test,OUTSAMPLE 2011 Audi A4 Normal 3.wav,OUTSAMPLE2011AudiA4Normal3,20.2,6,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,211,Audi,VW
+224,test,OUTSAMPLE 2011 Buick Regal Normal Hood Closed 1.wav,OUTSAMPLE2011BuickRegalNormalHoodClosed1,67.5,22,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+225,test,OUTSAMPLE 2011 Regal Normal Hood Open Loud Garage.wav,OUTSAMPLE2011RegalNormalHoodOpenLoudGarage,65.3,21,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+237,test,Panda aperto minimo.wav,Pandaapertominimo,57.7,19,Gasoline,Inline,2,Turbocharged,Normal,Open Hood,Idle,0.9,83,Fiat,Stellantis
+246,val,Panda minimo chiuso.wav,Pandaminimochiuso,62.4,20,Gasoline,Inline,2,Turbocharged,Normal,Closed Hood,Idle,0.9,83,Fiat,Stellantis
+247,val,Panda scappamento minimo.wav,Pandascappamentominimo,51.6,17,Gasoline,Inline,2,Turbocharged,Normal,Exhaust,Idle,0.9,83,Fiat,Stellantis
+265,val,Regal I4 Idle Normal 5.wav,RegalI4IdleNormal5,309.0,103,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+266,val,Regal Normal 7 Stata Garage.wav,RegalNormal7StataGarage,325.5,108,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+267,val,Regal Normal Parkman Lot.wav,RegalNormalParkmanLot,438.2,146,Gasoline,Inline,4,Turbocharged,Normal,Open Hood,Idle,2.0,260,Buick,GM
+270,val,Shane Defender Hood Closed.wav,ShaneDefenderHoodClosed,82.8,27,Diesel,Inline,5,Turbocharged,Normal,Closed Hood,Idle,2.5,122,Land Rover,Tata
+271,val,Shane Defender Hood Open.wav,ShaneDefenderHoodOpen,65.8,21,Diesel,Inline,5,Turbocharged,Normal,Open Hood,Idle,2.5,122,Land Rover,Tata
+272,val,Smart aperto cofano.wav,Smartapertocofano,55.3,18,Gasoline,Inline,3,Turbocharged,Normal,Open Hood,Idle,0.7,60,Smart,Daimler
+273,val,Smart cofano chiuso.wav,Smartcofanochiuso,56.0,18,Gasoline,Inline,3,Turbocharged,Normal,Closed Hood,Idle,0.7,60,Smart,Daimler
+274,val,Smart scappamento.wav,Smartscappamento,57.3,19,Gasoline,Inline,3,Turbocharged,Normal,Exhaust,Idle,0.7,60,Smart,Daimler
+116,test,"2018, 2019 & 2020 Ford Expedition SUV - EcoBoost 3.5L V6.wav",20182019&2020FordExpeditionSUVEcoBoost35LV6,20.0,6,Gasoline,V,6,Turbocharged,Normal,Open Hood,Idle,3.5,375,Ford,Ford
+257,test,"Range,aperto,folle.wav",Rangeapertofolle,39.2,13,Diesel,V,6,Turbocharged,Normal,Open Hood,Idle,3.0,245,Range Rover,Tata
+258,test,"Range,apetro,3000.wav",Rangeapetro3000,9.1,3,Diesel,V,6,Turbocharged,Normal,Open Hood,Non Idle,3.0,245,Range Rover,Tata
+259,test,"Range,chiuso,3000.wav",Rangechiuso3000,11.7,3,Diesel,V,6,Turbocharged,Normal,Closed Hood,Non Idle,3.0,245,Range Rover,Tata
+260,val,"Range,chiuso,folle.wav",Rangechiusofolle,37.0,12,Diesel,V,6,Turbocharged,Normal,Closed Hood,Idle,3.0,245,Range Rover,Tata
+261,test,"Range,scappamento,3000.wav",Rangescappamento3000,9.6,3,Diesel,V,6,Turbocharged,Normal,Exhaust,Non Idle,3.0,245,Range Rover,Tata
+262,val,"Range,scappamento,folle.wav",Rangescappamentofolle,35.2,11,Diesel,V,6,Turbocharged,Normal,Exhaust,Idle,3.0,245,Range Rover,Tata
+49,val,2012-2017 Hyundai Veloster Gamma GDI 1.6L I4 1.wav,20122017HyundaiVelosterGammaGDI16LI41,26.7,8,Gasoline,Inline,4,Unknown,Normal,Open Hood,Idle,1.6,Unknown,Hyundai,Hyundai
+50,val,2012-2017 Hyundai Veloster Gamma GDI 1.6L I4 2.wav,20122017HyundaiVelosterGammaGDI16LI42,14.9,4,Gasoline,Inline,4,Unknown,Normal,Open Hood,Idle,1.6,Unknown,Hyundai,Hyundai
+108,val,"2016, 2017 & 2018 Hyundai Tucson SUV - Nu 2.0L GDI I4.wav",20162017&2018HyundaiTucsonSUVNu20LGDII4,28.8,9,Gasoline,Inline,4,Unknown,Normal,Open Hood,Idle,2.0,164,Hyundai,Hyundai
+110,val,"2016, 2017, 2018, 2019 & 2020 Kia Optima Theta II 2.4L GDI I4.wav",2016201720182019&2020KiaOptimaThetaII24LGDII4,30.8,10,Gasoline,Inline,4,Unknown,Normal,Open Hood,Idle,2.4,178,Kia,Hyundai
+173,val,Ford Focus MK3 2.wav,FordFocusMK32,7.7,2,Unknown,Inline,4,Unknown,Normal,Unknown,Unknown,Unknown,Unknown,Ford,Ford
+174,val,Ford Focus MK3 3.wav,FordFocusMK33,15.6,5,Unknown,Inline,4,Unknown,Normal,Unknown,Unknown,Unknown,Unknown,Ford,Ford
+175,val,Ford Focus MK3.wav,FordFocusMK3,7.6,2,Unknown,Inline,4,Unknown,Normal,Unknown,Unknown,Unknown,Unknown,Ford,Ford
+165,val,Dodge Grand Caravan.wav,DodgeGrandCaravan,130.4,43,Unknown,Unknown,Unknown,Unknown,Normal,Unknown,Unknown,Unknown,Unknown,Dodge,Stellantis
+177,val,Ford Fusion.wav,FordFusion,130.5,43,Gasoline,Unknown,Unknown,Unknown,Normal,Unknown,Unknown,Unknown,Unknown,Ford,Ford
+188,val,Honda Pilot.wav,HondaPilot,130.4,43,Unknown,Unknown,Unknown,Unknown,Normal,Unknown,Unknown,Unknown,Unknown,Honda,Honda
+277,val,Toyota Camry.wav,ToyotaCamry,130.4,43,Unknown,Unknown,Unknown,Unknown,Normal,Unknown,Unknown,Unknown,Unknown,Toyota,Toyota
+105,val,2016 GMC Acadia SUV - 3.6L LLT V6 1.wav,2016GMCAcadiaSUV36LLLTV61,24.0,8,Gasoline,V,6,Unknown,Normal,Open Hood,Idle,3.6,281,GMC,GM
+106,val,2016 GMC Acadia SUV - 3.6L LLT V6 2.wav,2016GMCAcadiaSUV36LLLTV62,24.0,7,Gasoline,V,6,Unknown,Normal,Open Hood,Idle,3.6,281,GMC,GM
+111,val,"2016, 2017, 2018, 2019 & 2020 Kia Sorento 3.3L V6.wav",2016201720182019&2020KiaSorento33LV6,42.5,14,Gasoline,V,6,Unknown,Normal,Open Hood,Idle,3.3,204,Kia,Hyundai
+21,val,2011 Buick Regal Pkmn Abnormal OUTSAMPLE 1.wav,2011BuickRegalPkmnAbnormalOUTSAMPLE1,92.8,30,Gasoline,Inline,4,Turbocharged,Abnormal,Open Hood,Idle,2.0,260,Buick,GM
+22,val,2011 Buick Regal Pkmn Abnormal OUTSAMPLE 2.wav,2011BuickRegalPkmnAbnormalOUTSAMPLE2,39.0,12,Gasoline,Inline,4,Turbocharged,Abnormal,Open Hood,Idle,2.0,260,Buick,GM
+23,val,2011 Buick Regal Pkmn Abnormal OUTSAMPLE 3.wav,2011BuickRegalPkmnAbnormalOUTSAMPLE3,36.1,12,Gasoline,Inline,4,Turbocharged,Abnormal,Open Hood,Idle,2.0,260,Buick,GM
+24,val,2011 Buick Regal Pkmn Abnormal OUTSAMPLE 4.wav,2011BuickRegalPkmnAbnormalOUTSAMPLE4,42.1,14,Gasoline,Inline,4,Turbocharged,Abnormal,Open Hood,Idle,2.0,260,Buick,GM
+25,val,2011 Buick Regal Pkmn Abnormal OUTSAMPLE 5.wav,2011BuickRegalPkmnAbnormalOUTSAMPLE5,35.8,11,Gasoline,Inline,4,Turbocharged,Abnormal,Open Hood,Idle,2.0,260,Buick,GM
+124,val,Acadia Abnormal 1 - Cyl 1.wav,AcadiaAbnormal1Cyl1,305.6,101,Gasoline,Inline,6,Normally Aspirated,Abnormal,Open Hood,Idle,3.6,288,GMC,GM
+125,val,Acadia Abnormal 2 - Cyl 3.wav,AcadiaAbnormal2Cyl3,310.8,103,Gasoline,Inline,6,Normally Aspirated,Abnormal,Open Hood,Idle,3.6,288,GMC,GM
+143,test,Camry Abnormal 1.wav,CamryAbnormal1,124.7,41,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,Unknown,Unknown,Toyota,Toyota
+161,val,Corolla Abnormal.wav,CorollaAbnormal,147.4,49,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,Unknown,Unknown,Toyota,Toyota
+171,val,Focus Abnormal 1.wav,FocusAbnormal1,152.7,50,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,2.0,160,Ford,Ford
+180,test,Fusion Abnormal 1.wav,FusionAbnormal1,6.8,2,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,2.0,160,Ford,Ford
+200,val,Mazda3 Abnormal.wav,Mazda3Abnormal,32.4,10,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,Unknown,Unknown,Mazda,Mazda
+215,val,Optima Abnormal 1 - Cylinder 1.wav,OptimaAbnormal1Cylinder1,309.0,102,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,2.4,200,Kia,Hyundai
+216,val,Optima Abnormal 3 - Cylinder 1.wav,OptimaAbnormal3Cylinder1,33.1,11,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,2.4,200,Kia,Hyundai
+217,val,Optima Abnormal 4 - Cylinder 2.wav,OptimaAbnormal4Cylinder2,31.5,10,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,2.4,200,Kia,Hyundai
+218,val,Optima Abnormal 5 - Cylinder 2.wav,OptimaAbnormal5Cylinder2,311.3,103,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,2.4,200,Kia,Hyundai
+219,val,Optima Abnormal 6 - Cylinder 2.wav,OptimaAbnormal6Cylinder2,123.3,41,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,2.4,200,Kia,Hyundai
+228,test,OUTSAMPLE Nissan Versa Note Abnormal 1.wav,OUTSAMPLENissanVersaNoteAbnormal1,127.4,42,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,Unknown,Unknown,Nissan,Nissan
+230,test,OUTSAMPLE Optima Abnormal 2 - Cylinder 1.wav,OUTSAMPLEOptimaAbnormal2Cylinder1,122.8,40,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,2.4,200,Kia,Hyundai
+232,val,OUTSAMPLE Veloster I4 Abnormal 2.wav,OUTSAMPLEVelosterI4Abnormal2,284.9,94,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,1.6,138,Hyundai,Hyundai
+233,test,Pacifica Abnormal 1.wav,PacificaAbnormal1,90.5,30,Gasoline,Inline,6,Normally Aspirated,Abnormal,Open Hood,Idle,3.6,287,Chrysler,Stellantis
+263,val,Regal Abnormal 1 Stata Garage.wav,RegalAbnormal1StataGarage,611.2,203,Gasoline,Inline,4,Turbocharged,Abnormal,Open Hood,Idle,2.0,260,Buick,GM
+264,val,Regal Abnormal Parkman Lot Cyl 1.wav,RegalAbnormalParkmanLotCyl1,333.5,111,Gasoline,Inline,4,Turbocharged,Abnormal,Open Hood,Idle,2.0,260,Buick,GM
+268,test,Sentra Misfire 1.wav,SentraMisfire1,135.3,45,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,Unknown,Unknown,Nissan,Nissan
+278,val,Veloster I4 Abnormal 1.wav,VelosterI4Abnormal1,364.1,121,Gasoline,Inline,4,Normally Aspirated,Abnormal,Open Hood,Idle,1.6,138,Hyundai,Hyundai
+227,val,OUTSAMPLE Fusion Abnormal 2.wav,OUTSAMPLEFusionAbnormal2,17.1,5,Gasoline,Unknown,Unknown,Unknown,Abnormal,Unknown,Unknown,Unknown,Unknown,Ford,Ford
+178,val,Frontier Abnormal 1 Cyl 3.wav,FrontierAbnormal1Cyl3,154.0,51,Gasoline,V,6,Normally Aspirated,Abnormal,Open Hood,Idle,4.0,261,Nissan,Nissan
+,YT_test,2004 Mercedes-Benz E500.wav,2004MercedesBenzE500,,,Gasoline,V,8,Normally Aspirated,Abnormal,Open Hood,Non Idle,5.0,302,Mercedes-Benz,Daimler
+,YT_test,2010 BMW X5 M.wav,2010BMWX5M,,,Gasoline,V,8,Turbocharged,Abnormal,Unknown,Idle,4.4,555,BMW,BMW
+,YT_test,2010 GMC Sierra.wav,2010GMCSierra,,,Gasoline,V,8,Unknown,Abnormal,Unknown,Idle,4.8,302,GMC,GM
+,YT_test,2013 Ford F150 6.2.wav,2013FordF15062,,,Gasoline,V,8,Normally Aspirated,Abnormal,Unknown,Idle,6.2,411,Ford,Ford
+,YT_test,2015 Ford F250 6.2.wav,2015FordF25062,,,Gasoline,V,8,Normally Aspirated,Abnormal,Unknown,Idle,6.2,385,Ford,Ford
+,YT_test,Audi TFSI.wav,AudiTFSI,,,Gasoline,V,6,Turbocharged,Abnormal,Open Hood,Non Idle,2.9,444,Audi,Audi
+,YT_test,2003 Ford F450.wav,2003FordF450,,,Gasoline,V,10,Turbocharged,Normal,Open Hood,Idle,7.3,275,Ford,Ford
+,YT_test,BMW E60 M5.wav,BMWE60M5,,,Gasoline,V,10,Normally Aspirated,Normal,Unknown,Idle,5.0,500,BMW,BMW
+,YT_test,1989 Ford F250.wav,1989FordF250,,,Gasoline,V,8,Normally Aspirated,Normal,Open Hood,Idle,5.8,Unknown,Ford,Ford
+,YT_test,2018 Camaro 1LT 1SS 6.2.wav,2018Camaro1LT1SS62,,,Gasoline,V,8,Normally Aspirated,Normal,Unknown,Idle,6.2,455,Chevrolet,GM
+,YT_test,2018 Ford F150 5.0.wav,2018FordF15050,,,Gasoline,V,8,Normally Aspirated,Normal,Unknown,Idle,5.0,395,Ford,Ford
+,YT_test,Audi Q7 4.2 TDI.wav,AudiQ742TDI,,,Diesel,V,8,Unknown,Normal,Open Hood,Idle,4.2,350,Audi,Audi
+,YT_test,Audi S5 4.2.wav,AudiS542,,,Gasoline,V,8,Unknown,Normal,Open Hood,Idle,4.2,354,Audi,Audi
+,YT_test,Audi S7 4.0 TFSI.wav,AudiS740TFSI,,,Gasoline,V,8,Unknown,Normal,Unknown,Idle,4.0,450,Audi,Audi
+,YT_test,1994 Ford Thunderbird.wav,1994FordThunderbird,,,Gasoline,V,6,Normally Aspirated,Normal,Unknown,Idle,3.8,230,Ford,Ford
+,YT_test,Audi A7 3.0 TDI.wav,AudiA730TDI,,,Diesel,V,6,Unknown,Normal,Unknown,Idle,3.0,310,Audi,Audi
+,YT_test,Lexus GS 350.wav,LexusGS350,,,Gasoline,V,6,Normally Aspirated,Normal,Open Hood,Idle,3.5,311,Toyota,Toyota
+,YT_test,VW Passat 3.6 FSI.wav,VWPassat36FSI,,,Gasoline,V,6,Unknown,Normal,Unknown,Idle,3.6,280,VW,VW
+,YT_test,VW Passat B6 3.2 FSI.wav,VWPassatB632FSI,,,Gasoline,V,6,Normally Aspirated,Normal,Unknown,Idle,3.2,250,VW,VW
+,YT_test,BMW E92 335i Coupe.wav,BMWE92335iCoupe,,,Gasoline,Inline,6,Turbocharged,Abnormal,Open Hood,Idle,3.0,300,BMW,BMW
+,YT_test,BMW N57D30.wav,BMWN57D30,,,Gasoline,Inline,6,Turbocharged,Abnormal,Unknown,Non Idle,3.0,Unknown,BMW,BMW
+,YT_test,2009 Volvo S40 1.6.wav,2009VolvoS4016,,,Diesel,Inline,4,Turbocharged,Abnormal,Open Hood,Idle,1.6,108,Volvo,Volvo
+,YT_test,1996 BMW 5 525i.wav,1996BMW5525i,,,Gasoline,Inline,6,Normally Aspirated,Normal,Unknown,Idle,2.5,190,BMW,BMW
+,YT_test,2004 BMW E46 330d.wav,2004BMWE46330d,,,Diesel,Inline,6,Turbocharged,Normal,Unknown,Idle,3.0,200,BMW,BMW
+,YT_test,2007 BMW 335i Coupe.wav,2007BMW335iCoupe,,,Gasoline,Inline,6,Turbocharged,Normal,Open Hood,Idle,3.0,300,BMW,BMW
+,YT_test,1994 Mazda MX-5.wav,1994MazdaMX5,,,Gasoline,Inline,4,Normally Aspirated,Normal,Open Hood,Idle,1.8,128,Mazda,Mazda
+,YT_test,2014 Jeep Cherokee 2.4L.wav,2014JeepCherokee24L,,,Gasoline,Inline,4,Normally Aspirated,Normal,Unknown,Idle,2.4,184,Jeep,FCA

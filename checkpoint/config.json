@@ -1,0 +1,80 @@
+{
+    "name": "Cascade_Split_48k_MFCC_CNN",
+    "n_gpu": 1,
+
+    "arch": {
+        "type": "Cascade_2D_M5",
+        "args": {}
+    },
+    "train_data_loader": {
+        "type": "CascadeSplitDataLoader",
+        "args":{
+            "data_dir": "/scratch/datasets/cascade/train/mfcc",
+            "batch_size": 128,
+            "shuffle": true,
+            "validation_split": 0.0,
+            "num_workers": 1
+        }
+    },
+    "val_data_loader": {
+        "type": "CascadeSplitDataLoader",
+        "args":{
+            "data_dir": "/scratch/datasets/cascade/val/mfcc",
+            "batch_size": 128,
+            "shuffle": true,
+            "validation_split": 0.0,
+            "num_workers": 1
+        }
+    },
+    "test_data_loader": {
+        "type": "CascadeSplitDataLoader",
+        "args":{
+            "data_dir": "/scratch/datasets/cascade/test/mfcc",
+            "batch_size": 128,
+            "shuffle": true,
+            "validation_split": 0.0,
+            "num_workers": 1
+        }
+    },
+    "YT_test_data_loader": {
+        "type": "CascadeSplitDataLoader",
+        "args":{
+            "data_dir": "/scratch/datasets/cascade/YT_test/mfcc",
+            "batch_size": 128,
+            "shuffle": true,
+            "validation_split": 0.0,
+            "num_workers": 1
+        }
+    },
+    "optimizer": {
+        "type": "Adam",
+        "args":{
+            "lr": 0.001,
+            "weight_decay": 0,
+            "amsgrad": true
+        }
+    },
+    "loss": "cascade_split_loss",
+    "metrics": [
+        "accuracy", "precision", "recall"
+    ],
+    "lr_scheduler": {
+        "type": "StepLR",
+        "args": {
+            "step_size": 10,
+            "gamma": 0.1
+        }
+    },
+    "trainer": {
+        "epochs": 100,
+
+        "save_dir": "output/02_02_22/",
+        "save_period": 10,
+        "verbosity": 2,
+        
+        "monitor": "min val_overall_loss",
+        "early_stop": 100,
+
+        "tensorboard": true
+    }
+}
